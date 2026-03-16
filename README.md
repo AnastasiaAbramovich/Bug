@@ -1,5 +1,7 @@
 # 🐞Bug
 
-Исследовательское тестирования корзины в приложении "Интернет-магазин". Оформление в багтрекинговой системе Jira с последующим экспортом в формате XLSX на гугл-диск.
+Exploratory testing of the shopping cart functionality in the "Online Store" web application.
 
-- [Найденные и задокументированные баги](https://drive.google.com/drive/folders/1vvsHPEJIkPSQqqKDC03vNMBCXgeI3JsV?usp=drive_link)
+All detected issues were documented in the Jira bug-tracking system and exported to Google Drive in XLSX format.
+
+- [Reported and documented bugs](https://drive.google.com/drive/folders/1vvsHPEJIkPSQqqKDC03vNMBCXgeI3JsV?usp=drive_link)
